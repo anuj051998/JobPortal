@@ -1,0 +1,286 @@
+[27-Apr-2021 16:21:13 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'asoftech_a2kash'@'localhost' (using password: YES) in /home/asoftech/public_html/conn.php on line 16
+[27-Apr-2021 16:21:14 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'asoftech_a2kash'@'localhost' (using password: YES) in /home/asoftech/public_html/conn.php on line 16
+[27-Apr-2021 21:51:14 Asia/Kolkata] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/asoftech/public_html/portal/records.php on line 32
+[27-Apr-2021 21:51:14 Asia/Kolkata] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/asoftech/public_html/portal/records.php on line 34
+[27-Apr-2021 16:23:24 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'asoftech_a2kash'@'localhost' (using password: YES) in /home/asoftech/public_html/conn.php on line 16
+[27-Apr-2021 16:23:25 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'asoftech_a2kash'@'localhost' (using password: YES) in /home/asoftech/public_html/conn.php on line 16
+[27-Apr-2021 21:53:25 Asia/Kolkata] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/asoftech/public_html/portal/records.php on line 32
+[27-Apr-2021 21:53:25 Asia/Kolkata] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/asoftech/public_html/portal/records.php on line 34
+[27-Apr-2021 16:25:31 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'asoftech_a2kash'@'localhost' (using password: YES) in /home/asoftech/public_html/conn.php on line 16
+[27-Apr-2021 21:55:31 Asia/Kolkata] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/asoftech/public_html/portal/records.php on line 32
+[27-Apr-2021 21:55:31 Asia/Kolkata] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/asoftech/public_html/portal/records.php on line 34
+[27-Apr-2021 21:20:03 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'asoftech_a2kash'@'localhost' (using password: YES) in /home/asoftech/public_html/conn.php on line 16
+[27-Apr-2021 21:20:06 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'asoftech_a2kash'@'localhost' (using password: YES) in /home/asoftech/public_html/conn.php on line 16
+[27-Apr-2021 21:20:16 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'asoftech_a2kash'@'localhost' (using password: YES) in /home/asoftech/public_html/conn.php on line 16
+[28-Apr-2021 02:50:16 Asia/Kolkata] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/asoftech/public_html/portal/records.php on line 32
+[28-Apr-2021 02:50:16 Asia/Kolkata] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/asoftech/public_html/portal/records.php on line 34
+[27-Apr-2021 21:20:19 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'asoftech_a2kash'@'localhost' (using password: YES) in /home/asoftech/public_html/conn.php on line 16
+[28-Apr-2021 02:50:19 Asia/Kolkata] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/asoftech/public_html/portal/records.php on line 32
+[28-Apr-2021 02:50:19 Asia/Kolkata] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/asoftech/public_html/portal/records.php on line 34
+[29-Apr-2021 14:08:07 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'asoftech_a2kash'@'localhost' (using password: YES) in /home/asoftech/public_html/conn.php on line 16
+[29-Apr-2021 14:08:09 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'asoftech_a2kash'@'localhost' (using password: YES) in /home/asoftech/public_html/conn.php on line 16
+[29-Apr-2021 19:38:09 Asia/Kolkata] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/asoftech/public_html/portal/records.php on line 32
+[29-Apr-2021 19:38:09 Asia/Kolkata] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/asoftech/public_html/portal/records.php on line 34
+[29-Apr-2021 15:07:37 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'asoftech_a2kash'@'localhost' (using password: YES) in /home/asoftech/public_html/conn.php on line 16
+[29-Apr-2021 15:07:39 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'asoftech_a2kash'@'localhost' (using password: YES) in /home/asoftech/public_html/conn.php on line 16
+[29-Apr-2021 20:37:39 Asia/Kolkata] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/asoftech/public_html/portal/records.php on line 32
+[29-Apr-2021 20:37:39 Asia/Kolkata] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/asoftech/public_html/portal/records.php on line 34
+[29-Apr-2021 18:10:56 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'asoftech_a2kash'@'localhost' (using password: YES) in /home/asoftech/public_html/conn.php on line 16
+[29-Apr-2021 18:44:35 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'asoftech_a2kash'@'localhost' (using password: YES) in /home/asoftech/public_html/conn.php on line 16
+[30-Apr-2021 00:14:35 Asia/Kolkata] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/asoftech/public_html/portal/records.php on line 32
+[30-Apr-2021 00:14:35 Asia/Kolkata] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/asoftech/public_html/portal/records.php on line 34
+[30-Apr-2021 03:34:20 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'asoftech_a2kash'@'localhost' (using password: YES) in /home/asoftech/public_html/conn.php on line 16
+[30-Apr-2021 03:34:22 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'asoftech_a2kash'@'localhost' (using password: YES) in /home/asoftech/public_html/conn.php on line 16
+[30-Apr-2021 09:04:22 Asia/Kolkata] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/asoftech/public_html/portal/records.php on line 32
+[30-Apr-2021 09:04:22 Asia/Kolkata] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/asoftech/public_html/portal/records.php on line 34
+[30-Apr-2021 04:32:07 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'asoftech_a2kash'@'localhost' (using password: YES) in /home/asoftech/public_html/conn.php on line 16
+[30-Apr-2021 04:32:18 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'asoftech_a2kash'@'localhost' (using password: YES) in /home/asoftech/public_html/conn.php on line 16
+[30-Apr-2021 10:02:18 Asia/Kolkata] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/asoftech/public_html/portal/records.php on line 32
+[30-Apr-2021 10:02:18 Asia/Kolkata] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/asoftech/public_html/portal/records.php on line 34
+[30-Apr-2021 15:27:06 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'asoftech_a2kash'@'localhost' (using password: YES) in /home/asoftech/public_html/conn.php on line 16
+[03-May-2021 20:29:38 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'asoftech_a2kash'@'localhost' (using password: YES) in /home/asoftech/public_html/conn.php on line 16
+[03-May-2021 20:32:06 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'asoftech_a2kash'@'localhost' (using password: YES) in /home/asoftech/public_html/conn.php on line 16
+[03-May-2021 20:33:08 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'asoftech_a2kash'@'localhost' (using password: YES) in /home/asoftech/public_html/conn.php on line 16
+[03-May-2021 21:02:13 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'asoftech_a2kash'@'localhost' (using password: YES) in /home/asoftech/public_html/conn.php on line 16
+[04-May-2021 03:26:49 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'asoftech_a2kash'@'localhost' (using password: YES) in /home/asoftech/public_html/conn.php on line 16
+[04-May-2021 03:27:42 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'asoftech_a2kash'@'localhost' (using password: YES) in /home/asoftech/public_html/conn.php on line 16
+[04-May-2021 03:27:50 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'asoftech_a2kash'@'localhost' (using password: YES) in /home/asoftech/public_html/conn.php on line 16
+[04-May-2021 08:57:50 Asia/Kolkata] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/asoftech/public_html/portal/records.php on line 32
+[04-May-2021 08:57:50 Asia/Kolkata] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/asoftech/public_html/portal/records.php on line 34
+[04-May-2021 03:30:05 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'asoftech_a2kash'@'localhost' (using password: YES) in /home/asoftech/public_html/conn.php on line 16
+[04-May-2021 03:30:07 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'asoftech_a2kash'@'localhost' (using password: YES) in /home/asoftech/public_html/conn.php on line 16
+[04-May-2021 03:30:09 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'asoftech_a2kash'@'localhost' (using password: YES) in /home/asoftech/public_html/conn.php on line 16
+[06-May-2021 15:00:02 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'asoftech_a2kash'@'localhost' (using password: YES) in /home/asoftech/public_html/conn.php on line 16
+[06-May-2021 15:10:06 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'asoftech_a2kash'@'localhost' (using password: YES) in /home/asoftech/public_html/conn.php on line 16
+[06-May-2021 15:10:23 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'asoftech_a2kash'@'localhost' (using password: YES) in /home/asoftech/public_html/conn.php on line 16
+[06-May-2021 20:40:23 Asia/Kolkata] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/asoftech/public_html/portal/records.php on line 32
+[06-May-2021 20:40:23 Asia/Kolkata] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/asoftech/public_html/portal/records.php on line 34
+[06-May-2021 15:13:15 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'asoftech_a2kash'@'localhost' (using password: YES) in /home/asoftech/public_html/conn.php on line 16
+[07-May-2021 00:43:22 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'asoftech_a2kash'@'localhost' (using password: YES) in /home/asoftech/public_html/conn.php on line 16
+[07-May-2021 00:43:28 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'asoftech_a2kash'@'localhost' (using password: YES) in /home/asoftech/public_html/conn.php on line 16
+[07-May-2021 06:13:28 Asia/Kolkata] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/asoftech/public_html/portal/records.php on line 32
+[07-May-2021 06:13:28 Asia/Kolkata] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/asoftech/public_html/portal/records.php on line 34
+[07-May-2021 01:20:00 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'asoftech_a2kash'@'localhost' (using password: YES) in /home/asoftech/public_html/conn.php on line 16
+[07-May-2021 01:20:05 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'asoftech_a2kash'@'localhost' (using password: YES) in /home/asoftech/public_html/conn.php on line 16
+[07-May-2021 06:50:05 Asia/Kolkata] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/asoftech/public_html/portal/records.php on line 32
+[07-May-2021 06:50:05 Asia/Kolkata] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/asoftech/public_html/portal/records.php on line 34
+[07-May-2021 01:29:38 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'asoftech_a2kash'@'localhost' (using password: YES) in /home/asoftech/public_html/conn.php on line 16
+[07-May-2021 01:30:23 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'asoftech_a2kash'@'localhost' (using password: YES) in /home/asoftech/public_html/conn.php on line 16
+[07-May-2021 07:00:23 Asia/Kolkata] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/asoftech/public_html/portal/records.php on line 32
+[07-May-2021 07:00:23 Asia/Kolkata] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/asoftech/public_html/portal/records.php on line 34
+[07-May-2021 04:34:25 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'asoftech_a2kash'@'localhost' (using password: YES) in /home/asoftech/public_html/conn.php on line 16
+[07-May-2021 04:34:38 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'asoftech_a2kash'@'localhost' (using password: YES) in /home/asoftech/public_html/conn.php on line 16
+[07-May-2021 10:04:38 Asia/Kolkata] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/asoftech/public_html/portal/records.php on line 32
+[07-May-2021 10:04:38 Asia/Kolkata] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/asoftech/public_html/portal/records.php on line 34
+[07-May-2021 05:51:36 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'asoftech_a2kash'@'localhost' (using password: YES) in /home/asoftech/public_html/conn.php on line 16
+[07-May-2021 08:14:33 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'asoftech_a2kash'@'localhost' (using password: YES) in /home/asoftech/public_html/conn.php on line 16
+[07-May-2021 13:44:33 Asia/Kolkata] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/asoftech/public_html/portal/records.php on line 32
+[07-May-2021 13:44:33 Asia/Kolkata] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/asoftech/public_html/portal/records.php on line 34
+[07-May-2021 10:01:07 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'asoftech_a2kash'@'localhost' (using password: YES) in /home/asoftech/public_html/conn.php on line 16
+[08-May-2021 02:11:26 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'asoftech_a2kash'@'localhost' (using password: YES) in /home/asoftech/public_html/conn.php on line 16
+[08-May-2021 02:11:40 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'asoftech_a2kash'@'localhost' (using password: YES) in /home/asoftech/public_html/conn.php on line 16
+[08-May-2021 07:41:40 Asia/Kolkata] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/asoftech/public_html/portal/records.php on line 32
+[08-May-2021 07:41:40 Asia/Kolkata] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/asoftech/public_html/portal/records.php on line 34
+[08-May-2021 18:26:17 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'asoftech_a2kash'@'localhost' (using password: YES) in /home/asoftech/public_html/conn.php on line 16
+[21-May-2021 09:49:05 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/asoftech/public_html/portal/php/conn.php on line 7
+[21-May-2021 09:49:05 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/asoftech/public_html/portal/index.php on line 31
+[21-May-2021 09:49:05 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on null in /home/asoftech/public_html/portal/index.php:33
+Stack trace:
+#0 {main}
+  thrown in /home/asoftech/public_html/portal/index.php on line 33
+[21-May-2021 09:49:17 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/asoftech/public_html/portal/php/conn.php on line 7
+[21-May-2021 09:49:17 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/asoftech/public_html/portal/index.php on line 31
+[21-May-2021 09:49:17 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on null in /home/asoftech/public_html/portal/index.php:33
+Stack trace:
+#0 {main}
+  thrown in /home/asoftech/public_html/portal/index.php on line 33
+[21-May-2021 09:49:32 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/asoftech/public_html/portal/php/conn.php on line 7
+[21-May-2021 09:49:32 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/asoftech/public_html/portal/index.php on line 31
+[21-May-2021 09:49:32 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on null in /home/asoftech/public_html/portal/index.php:33
+Stack trace:
+#0 {main}
+  thrown in /home/asoftech/public_html/portal/index.php on line 33
+[21-May-2021 09:49:36 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/asoftech/public_html/portal/php/conn.php on line 7
+[21-May-2021 09:49:36 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/asoftech/public_html/portal/index.php on line 31
+[21-May-2021 09:49:36 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on null in /home/asoftech/public_html/portal/index.php:33
+Stack trace:
+#0 {main}
+  thrown in /home/asoftech/public_html/portal/index.php on line 33
+[21-May-2021 09:49:37 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/asoftech/public_html/portal/php/conn.php on line 7
+[21-May-2021 09:49:37 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/asoftech/public_html/portal/index.php on line 31
+[21-May-2021 09:49:37 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on null in /home/asoftech/public_html/portal/index.php:33
+Stack trace:
+#0 {main}
+  thrown in /home/asoftech/public_html/portal/index.php on line 33
+[21-May-2021 09:49:51 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/asoftech/public_html/portal/php/conn.php on line 7
+[21-May-2021 09:49:51 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/asoftech/public_html/portal/index.php on line 31
+[21-May-2021 09:49:51 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on null in /home/asoftech/public_html/portal/index.php:33
+Stack trace:
+#0 {main}
+  thrown in /home/asoftech/public_html/portal/index.php on line 33
+[21-May-2021 09:50:12 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/asoftech/public_html/portal/php/conn.php on line 7
+[21-May-2021 09:50:12 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/asoftech/public_html/portal/index.php on line 31
+[21-May-2021 09:50:12 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on null in /home/asoftech/public_html/portal/index.php:33
+Stack trace:
+#0 {main}
+  thrown in /home/asoftech/public_html/portal/index.php on line 33
+[21-May-2021 10:03:19 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/asoftech/public_html/portal/php/conn.php on line 7
+[21-May-2021 10:03:19 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/asoftech/public_html/portal/index.php on line 31
+[21-May-2021 10:03:19 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on null in /home/asoftech/public_html/portal/index.php:33
+Stack trace:
+#0 {main}
+  thrown in /home/asoftech/public_html/portal/index.php on line 33
+[04-Jun-2021 11:43:53 UTC] PHP Warning:  file_get_contents(https://allgovernmentjobs.in/jobs-in-madhya-pradesh/page/4): failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home/asoftech/public_html/portal/simple_html_dom.php on line 244
+[04-Jun-2021 11:43:53 UTC] PHP Fatal error:  Uncaught Error: Call to a member function find() on bool in /home/asoftech/public_html/portal/more_.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/asoftech/public_html/portal/more_.php on line 16
+[04-Jun-2021 11:43:53 UTC] PHP Warning:  file_get_contents(https://allgovernmentjobs.in/jobs-in-madhya-pradesh/page/6): failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home/asoftech/public_html/portal/simple_html_dom.php on line 244
+[04-Jun-2021 11:43:53 UTC] PHP Fatal error:  Uncaught Error: Call to a member function find() on bool in /home/asoftech/public_html/portal/more_.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/asoftech/public_html/portal/more_.php on line 16
+[04-Jun-2021 11:43:53 UTC] PHP Warning:  file_get_contents(https://allgovernmentjobs.in/jobs-in-madhya-pradesh/page/5): failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home/asoftech/public_html/portal/simple_html_dom.php on line 244
+[04-Jun-2021 11:43:53 UTC] PHP Fatal error:  Uncaught Error: Call to a member function find() on bool in /home/asoftech/public_html/portal/more_.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/asoftech/public_html/portal/more_.php on line 16
+[20-Jun-2021 10:57:44 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on bool in /home/asoftech/public_html/portal/job-details.php:88
+Stack trace:
+#0 {main}
+  thrown in /home/asoftech/public_html/portal/job-details.php on line 88
+[03-Jul-2021 03:08:27 UTC] PHP Warning:  file_get_contents(https://allgovernmentjobs.in/jobs-in-madhya-pradesh/page/3): failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home/asoftech/public_html/portal/simple_html_dom.php on line 244
+[03-Jul-2021 03:08:27 UTC] PHP Fatal error:  Uncaught Error: Call to a member function find() on bool in /home/asoftech/public_html/portal/more_.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/asoftech/public_html/portal/more_.php on line 16
+[03-Jul-2021 03:08:27 UTC] PHP Warning:  file_get_contents(https://allgovernmentjobs.in/jobs-in-madhya-pradesh/page/5): failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home/asoftech/public_html/portal/simple_html_dom.php on line 244
+[03-Jul-2021 03:08:27 UTC] PHP Fatal error:  Uncaught Error: Call to a member function find() on bool in /home/asoftech/public_html/portal/more_.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/asoftech/public_html/portal/more_.php on line 16
+[03-Jul-2021 03:08:27 UTC] PHP Warning:  file_get_contents(https://allgovernmentjobs.in/jobs-in-madhya-pradesh/page/4): failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home/asoftech/public_html/portal/simple_html_dom.php on line 244
+[03-Jul-2021 03:08:27 UTC] PHP Fatal error:  Uncaught Error: Call to a member function find() on bool in /home/asoftech/public_html/portal/more_.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/asoftech/public_html/portal/more_.php on line 16
+[03-Jul-2021 03:08:27 UTC] PHP Warning:  file_get_contents(https://allgovernmentjobs.in/jobs-in-madhya-pradesh/page/6): failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home/asoftech/public_html/portal/simple_html_dom.php on line 244
+[03-Jul-2021 03:08:27 UTC] PHP Fatal error:  Uncaught Error: Call to a member function find() on bool in /home/asoftech/public_html/portal/more_.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/asoftech/public_html/portal/more_.php on line 16
+[05-Jul-2021 09:36:39 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on bool in /home/asoftech/public_html/portal/job-details.php:88
+Stack trace:
+#0 {main}
+  thrown in /home/asoftech/public_html/portal/job-details.php on line 88
+[05-Jul-2021 20:34:59 UTC] PHP Warning:  file_get_contents(https://allgovernmentjobs.in/jobs-in-madhya-pradesh/page/4): failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home/asoftech/public_html/portal/simple_html_dom.php on line 244
+[05-Jul-2021 20:34:59 UTC] PHP Fatal error:  Uncaught Error: Call to a member function find() on bool in /home/asoftech/public_html/portal/more_.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/asoftech/public_html/portal/more_.php on line 16
+[05-Jul-2021 20:34:59 UTC] PHP Warning:  file_get_contents(https://allgovernmentjobs.in/jobs-in-madhya-pradesh/page/3): failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home/asoftech/public_html/portal/simple_html_dom.php on line 244
+[05-Jul-2021 20:34:59 UTC] PHP Fatal error:  Uncaught Error: Call to a member function find() on bool in /home/asoftech/public_html/portal/more_.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/asoftech/public_html/portal/more_.php on line 16
+[05-Jul-2021 20:34:59 UTC] PHP Warning:  file_get_contents(https://allgovernmentjobs.in/jobs-in-madhya-pradesh/page/5): failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home/asoftech/public_html/portal/simple_html_dom.php on line 244
+[05-Jul-2021 20:34:59 UTC] PHP Fatal error:  Uncaught Error: Call to a member function find() on bool in /home/asoftech/public_html/portal/more_.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/asoftech/public_html/portal/more_.php on line 16
+[05-Jul-2021 20:34:59 UTC] PHP Warning:  file_get_contents(https://allgovernmentjobs.in/jobs-in-madhya-pradesh/page/6): failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home/asoftech/public_html/portal/simple_html_dom.php on line 244
+[05-Jul-2021 20:34:59 UTC] PHP Fatal error:  Uncaught Error: Call to a member function find() on bool in /home/asoftech/public_html/portal/more_.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/asoftech/public_html/portal/more_.php on line 16
+[15-Jul-2021 15:50:49 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on bool in /home/asoftech/public_html/portal/job-details.php:88
+Stack trace:
+#0 {main}
+  thrown in /home/asoftech/public_html/portal/job-details.php on line 88
+[21-Jul-2021 04:46:16 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on bool in /home/asoftech/public_html/portal/job-details.php:88
+Stack trace:
+#0 {main}
+  thrown in /home/asoftech/public_html/portal/job-details.php on line 88
+[21-Jul-2021 08:05:03 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on bool in /home/asoftech/public_html/portal/job-details.php:88
+Stack trace:
+#0 {main}
+  thrown in /home/asoftech/public_html/portal/job-details.php on line 88
+[25-Jul-2021 20:33:23 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on bool in /home/asoftech/public_html/portal/job-details.php:88
+Stack trace:
+#0 {main}
+  thrown in /home/asoftech/public_html/portal/job-details.php on line 88
+[25-Jul-2021 20:33:23 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on bool in /home/asoftech/public_html/portal/job-details.php:88
+Stack trace:
+#0 {main}
+  thrown in /home/asoftech/public_html/portal/job-details.php on line 88
+[25-Jul-2021 20:33:23 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on bool in /home/asoftech/public_html/portal/job-details.php:88
+Stack trace:
+#0 {main}
+  thrown in /home/asoftech/public_html/portal/job-details.php on line 88
+[25-Jul-2021 20:33:24 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on bool in /home/asoftech/public_html/portal/job-details.php:88
+Stack trace:
+#0 {main}
+  thrown in /home/asoftech/public_html/portal/job-details.php on line 88
+[25-Jul-2021 20:33:24 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on bool in /home/asoftech/public_html/portal/job-details.php:88
+Stack trace:
+#0 {main}
+  thrown in /home/asoftech/public_html/portal/job-details.php on line 88
+[25-Jul-2021 20:33:24 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on bool in /home/asoftech/public_html/portal/job-details.php:88
+Stack trace:
+#0 {main}
+  thrown in /home/asoftech/public_html/portal/job-details.php on line 88
+[25-Jul-2021 20:33:24 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on bool in /home/asoftech/public_html/portal/job-details.php:88
+Stack trace:
+#0 {main}
+  thrown in /home/asoftech/public_html/portal/job-details.php on line 88
+[25-Jul-2021 20:33:24 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on bool in /home/asoftech/public_html/portal/job-details.php:88
+Stack trace:
+#0 {main}
+  thrown in /home/asoftech/public_html/portal/job-details.php on line 88
+[25-Jul-2021 20:33:24 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on bool in /home/asoftech/public_html/portal/job-details.php:88
+Stack trace:
+#0 {main}
+  thrown in /home/asoftech/public_html/portal/job-details.php on line 88
+[31-Jul-2021 08:37:18 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on bool in /home/asoftech/public_html/portal/job-details.php:88
+Stack trace:
+#0 {main}
+  thrown in /home/asoftech/public_html/portal/job-details.php on line 88
+[01-Aug-2021 09:05:11 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on bool in /home/asoftech/public_html/portal/job-details.php:88
+Stack trace:
+#0 {main}
+  thrown in /home/asoftech/public_html/portal/job-details.php on line 88
+[08-Aug-2021 13:17:34 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on bool in /home/asoftech/public_html/portal/job-details.php:88
+Stack trace:
+#0 {main}
+  thrown in /home/asoftech/public_html/portal/job-details.php on line 88
+[11-Aug-2021 06:37:56 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on bool in /home/asoftech/public_html/portal/job-details.php:88
+Stack trace:
+#0 {main}
+  thrown in /home/asoftech/public_html/portal/job-details.php on line 88
+[13-Aug-2021 03:02:48 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on bool in /home/asoftech/public_html/portal/job-details.php:88
+Stack trace:
+#0 {main}
+  thrown in /home/asoftech/public_html/portal/job-details.php on line 88
+[15-Aug-2021 18:12:04 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on bool in /home/asoftech/public_html/portal/job-details.php:88
+Stack trace:
+#0 {main}
+  thrown in /home/asoftech/public_html/portal/job-details.php on line 88
+[19-Aug-2021 04:40:05 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on bool in /home/asoftech/public_html/portal/job-details.php:88
+Stack trace:
+#0 {main}
+  thrown in /home/asoftech/public_html/portal/job-details.php on line 88
+[29-Aug-2021 04:54:35 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on bool in /home/asoftech/public_html/portal/job-details.php:88
+Stack trace:
+#0 {main}
+  thrown in /home/asoftech/public_html/portal/job-details.php on line 88
